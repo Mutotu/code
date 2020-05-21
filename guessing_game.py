@@ -39,6 +39,7 @@ def start_game():
                         break
                     else:
                         random_number= random.randint(1,10)
+                        counter 0=
                         continue
                 
   
